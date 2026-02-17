@@ -1,6 +1,6 @@
 {% set name = "bohra" %}
-{% set version = "3.2.4" %}
-{% set sha256 = "528b2701b7ba8a742a1c81f8a6cda4b3f32539a8f88d81ad0c441a34fdb76654" %}
+{% set version = "3.3.0" %}
+{% set sha256 = "6c1fa092386879584d2cccf342c7a3ac2fb5461e5d2ac4b764fef055a49aa91a" %}
 
 package:
   name: "{{ name }}"
